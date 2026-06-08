@@ -1,0 +1,11 @@
+## 環境構築手順- Java: xx
+以上- Tomcat: 
+バージョン
+xx- Eclipse: 
+バージョン
+xx（Dynamic Web Project対応）
+## セットアップ
+1. 
+リポジトリをclone（SourceTree使用）
+2. EclipseでFile → Import → Existing Projects into Workspace
+3. Tomcatサーバーを追加してプロジェクトをデプロイ
