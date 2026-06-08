@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<title>Todoリスト</title>
+<title>TodoList</title>
 </head>
 <body>
 	<div>
